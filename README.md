@@ -22,7 +22,7 @@ To modernize the agricultural supply chain by eliminating predatory middlemen an
 * [Stellar CLI](https://developers.stellar.org/docs/tools/stellar-cli)
 
 ## How to Build
-```bash
+
 cargo build --target wasm32-unknown-unknown --release
 
 ## Stellar Expert Link
