@@ -28,9 +28,9 @@ cargo build --target wasm32-unknown-unknown --release
 ## Stellar Expert Link
 https://stellar.expert/explorer/testnet/contract/CBN5J4UYCJF6EGW6QXDMUOO3KZ67DUPRJIBUMNLBKGLLGY2TV4N52KPZ
 
-##Contact ID:
+## Contact ID:
 CBN5J4UYCJF6EGW6QXDMUOO3KZ67DUPRJIBUMNLBKGLLGY2TV4N52KPZ
 
-##Screenshot
+## Screenshot
 ![alt text](image.png)
 
