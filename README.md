@@ -24,3 +24,13 @@ To modernize the agricultural supply chain by eliminating predatory middlemen an
 ## How to Build
 ```bash
 cargo build --target wasm32-unknown-unknown --release
+
+## Stellar Expert Link
+https://stellar.expert/explorer/testnet/contract/CBN5J4UYCJF6EGW6QXDMUOO3KZ67DUPRJIBUMNLBKGLLGY2TV4N52KPZ
+
+##Contact ID:
+CBN5J4UYCJF6EGW6QXDMUOO3KZ67DUPRJIBUMNLBKGLLGY2TV4N52KPZ
+
+##Screenshot
+![alt text](image.png)
+
